@@ -26,7 +26,7 @@
 ## Studying:
 ![Typescript](https://img.shields.io/badge/Typescript-0D1117?style=for-the-badge&logo=typescript&textColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
-![C#](https://img.shields.io/badge/c#-0D1117?style=for-the-badge&logo=C#)&nbsp;
+![C#](https://img.shields.io/badge/csharp-0D1117?style=for-the-badge&logo=csharp)&nbsp;
 
 <br/>
 
