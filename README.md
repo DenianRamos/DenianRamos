@@ -1,6 +1,6 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=008036&height=120&section=header"/> -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=jet+Brains&weight=500&duration=3500&pause=1000&color=F7F7F7&center=verdadeiro&vCenter=falso&multiline=true&repeat=verdadeiro&random=falso&width=460&lines=Hi%2C+I+am+Denian%2C+your+full-stack+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=jet+Brains&weight=800&size=24&duration=3600&pause=1000&color=F7F7F7&center=verdadeiro&vCenter=verdadeiro&multiline=true&repeat=verdadeiro&random=falso&width=460&lines=Hi%2C+I+am+Denian%2C+your+full-stack+developer.)](https://git.io/typing-svg)
 
 <div align="center">  
 <a href="https://www.instagram.com/denianxdd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EC2E2C?style=for-the-badge&logo=instagram&logoColor=white"</a>
