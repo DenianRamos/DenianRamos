@@ -3,8 +3,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&size=50&pause=1000&color=FEFEFE&center=true&vCenter=true&width=1000&height=90&lines=%F0%9F%91%8B+Hello%2C+I'm+Luiz+Vicente;I'm+a+Front-End+Developer+%F0%9F%92%BB;%F0%9F%A7%90+I'm+a+Systems+Analyst+at+PUC-PR)](https://git.io/typing-svg)
 
 <div align="center">  
-<a href="https://www.instagram.com/eu_sou_o_luiz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EC2E2C?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://www.linkedin.com/in/dev-vicente/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0961B8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
+<a href="https://www.instagram.com/denianxdd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EC2E2C?style=for-the-badge&logo=instagram&logoColor=white"</a>
+<a href="https://www.linkedin.com/in/denian-soares-ramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0961B8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
 ---
