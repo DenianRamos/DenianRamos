@@ -22,11 +22,12 @@
 ![microsoft-office](https://img.shields.io/badge/microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
 </br>
-</br>
+<br>
 </br>
 <img src="https://github.com/LuanFD/README/assets/166232472/4ab59551-853f-4fad-a227-3ac8c33b2b8f" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
-
+<br>
+</br>
 
 ## Studying:
 ![Typescript](https://img.shields.io/badge/Typescript-0D1117?style=for-the-badge&logo=typescript&textColor=0D1117)&nbsp;
