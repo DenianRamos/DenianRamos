@@ -22,6 +22,8 @@
 ![microsoft-office](https://img.shields.io/badge/microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+
 ## Studying:
 ![Typescript](https://img.shields.io/badge/Typescript-0D1117?style=for-the-badge&logo=typescript&textColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
