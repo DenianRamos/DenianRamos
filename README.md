@@ -32,6 +32,7 @@
 ## Studying:
 ![Typescript](https://img.shields.io/badge/Typescript-0D1117?style=for-the-badge&logo=typescript&textColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)>
 
 
 <br/>
