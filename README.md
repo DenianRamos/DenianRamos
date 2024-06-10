@@ -10,7 +10,7 @@
 <br/>
   
 ## Main skills:
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=java)&nbsp;
+![Java](https://img.shields.io/badge/java-0D1117?style=for-the-badge&logo=java)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
 ![C#](https://img.shields.io/badge/csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=68217a)&nbsp; 
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
