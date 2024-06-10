@@ -1,6 +1,7 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=480&size=24&duration=4500&pause=1000&color=F7F7F7&random=false&width=580&lines=Hi%2C+I+am+Denian%2C+your+full-stack+devolper.)](https://git.io/typing-svg)
+
 ![github-certo](https://github.com/DenianRamos/DenianRamos/assets/95594927/8f0107dd-65f3-4cce-b37e-f677844bd33b)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jet+Brains+Mono&size=25&duration=2500&pause=1000&color=F7F7F7&random=false&width=700&lines=Not+knowing+it+was+impossible%2C+he+went+out+there+and+did+it.)](https://git.io/typing-svg)
 
 
 
