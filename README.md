@@ -10,7 +10,7 @@
 <br/>
   
 ## Main skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,git,dotnet,cs,rust,java,py,js,html,css,spring)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,git,dotnet,cs,java,py,js,html,css,spring)](https://skillicons.dev)
 
 ## Tools:
 [![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,windows,linux,ae,rider,figma,ps,pr,powershell)](https://skillicons.dev)
@@ -23,9 +23,7 @@
 </br>
 
 ## Studying:
-![Typescript](https://img.shields.io/badge/Typescript-0D1117?style=for-the-badge&logo=typescript&textColor=0D1117)&nbsp;
-![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react)&nbsp;
-![Rust](https://img.shields.io/badge/Rust-0D1117?style=for-the-badge&logo=rust)
+[![Studyng](https://skillicons.dev/icons?i=rust,azure,gcp,go,linux,lua,vue,mysql)](https://skillicons.dev)
 
 <br/>
 
