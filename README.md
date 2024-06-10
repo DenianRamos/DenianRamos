@@ -17,7 +17,6 @@
 </br>
 <br>
 </br>
-<img src="https://github.com/LuanFD/README/assets/166232472/4ab59551-853f-4fad-a227-3ac8c33b2b8f" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <br>
 </br>
