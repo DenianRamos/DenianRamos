@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=480&size=24&duration=4500&pause=1000&color=F7F7F7&random=false&width=580&lines=Hi%2C+I+am+Denian%2C+your+full-stack+devolper.)](https://git.io/typing-svg)
-<img align="center" alt="Banner Denian" src="https://media.discordapp.net/attachments/774050873268633613/1249752001571717230/github-certo.gif?ex=666871c0&is=66672040&hm=34186dd3bfa77c6228bdc7ea84034f35ebfdf7843d949c35d7a1a46efd5faf3e&=&width=1440&height=300" target="_blank">
+<img align="center" alt="Banner Denian" src="https://www.gifyu.com/image/SYiMZ" target="_blank">
+
 
 
 <div align="center">  
