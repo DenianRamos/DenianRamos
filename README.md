@@ -34,7 +34,7 @@
 
 <br/>
 
-<div align="left">
+<!-- <div align="left">
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=DenianRamos&theme=gotham&layout=compact&langs_count=8&card_width=320" />
   <img height="190" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=DenianRamos&theme=gotham&hide_border=false" alt="DenianRamos">
 </div>
