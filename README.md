@@ -10,12 +10,7 @@
 <br/>
   
 ## Main skills:
-![Java](https://img.shields.io/badge/Java-0D1117?style=for-the-badge&logo=openjdk&logoColor=white)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript)&nbsp;
-![C#](https://img.shields.io/badge/csharp-0D1117?style=for-the-badge&logo=csharp&logoColor=68217a)&nbsp; 
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6)&nbsp;
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=for-the-badge&logo=html5)&nbsp;
-![Bootstrap](https://img.shields.io/badge/Bootstrap-0D1117?style=for-the-badge&logo=bootstrap)&nbsp;
+[![My Skills](https://skillicons.dev/icons?i=ts,git,dotnet,cs,rust,java,py,js,html,css,)](https://skillicons.dev)
 
 ## Tools:
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
