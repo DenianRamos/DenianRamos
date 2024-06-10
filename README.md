@@ -17,10 +17,10 @@
 ---
 <br/>
   
-## Main skills:
+##💻 Main skills :
 [![My Skills](https://skillicons.dev/icons?i=ts,dotnet,cs,java,py,js,html,css,spring,bootstrap)](https://skillicons.dev)
 
-## Tools:
+##🛠️ Tools:
 [![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,windows,linux,ae,rider,figma,ps,pr,powershell)](https://skillicons.dev)
 </br>
 <br>
@@ -29,7 +29,7 @@
 <br>
 </br>
 
-## Studying:
+##👩🏻‍💻 Studying:
 [![Studyng](https://skillicons.dev/icons?i=rust,azure,gcp,go,linux,lua,vue,mysql)](https://skillicons.dev)
 
 <br/>
