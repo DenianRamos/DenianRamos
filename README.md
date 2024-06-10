@@ -10,14 +10,10 @@
 <br/>
   
 ## Main skills:
-[![My Skills](https://skillicons.dev/icons?i=ts,git,dotnet,cs,rust,java,py,js,html,css,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,git,dotnet,cs,rust,java,py,js,html,css,spring)](https://skillicons.dev)
 
 ## Tools:
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0D1117?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github)&nbsp;
-![microsoft-office](https://img.shields.io/badge/microsoft_office-0D1117?style=for-the-badge&logo=microsoft-office)&nbsp;
-![Figma](https://img.shields.io/badge/figma-0D1117?style=for-the-badge&logo=figma)&nbsp;
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,windows,linux,ae,rider,figma,ps,pr,powershell)](https://skillicons.dev)
 </br>
 <br>
 </br>
