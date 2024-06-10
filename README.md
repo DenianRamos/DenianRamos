@@ -1,6 +1,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Jet+Brains+Mono&weight=480&size=24&duration=4500&pause=1000&color=F7F7F7&random=false&width=580&lines=Hi%2C+I+am+Denian%2C+your+full-stack+devolper.)](https://git.io/typing-svg)
-<img align="center" alt="Banner Denian" src="https://www.gifyu.com/image/SYiMZ" target="_blank">
+![github-certo](https://github.com/DenianRamos/DenianRamos/assets/95594927/8f0107dd-65f3-4cce-b37e-f677844bd33b)
+
 
 
 
