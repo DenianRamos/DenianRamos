@@ -27,7 +27,7 @@
 </br>
 
 ## 👩🏻‍💻 Studying:
-[![Studyng](https://skillicons.dev/icons?i=rust,azure,gcp,go,linux,lua,vue,mysql)](https://skillicons.dev)
+[![Studyng](https://skillicons.dev/icons?i=rust,azure,gcp,go,lua,vue,mysql)](https://skillicons.dev)
 
 <br/>
 
