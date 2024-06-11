@@ -23,10 +23,7 @@
 ## 🛠️ Tools:
 [![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,windows,linux,ae,rider,figma,ps,pr,powershell)](https://skillicons.dev)
 </br>
-<br>
-</br>
 
-<br>
 </br>
 
 ## 👩🏻‍💻 Studying:
