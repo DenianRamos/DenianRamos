@@ -1,12 +1,7 @@
 
 
 
-https://github.com/DenianRamos/DenianRamos/assets/95594927/cb4bc837-427d-4ee5-b269-103a9123b334
-
-
-
-
-
+![github certo(1)](https://github.com/DenianRamos/DenianRamos/assets/95594927/cf150e52-4df2-42d8-a0c9-e725e5642a65)
 
 <div align="center">  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Jet+Brains+Mono&duration=2500&pause=1000&color=F7F7F7&center=true&random=false&width=830&height=100&lines=Not+knowing+it+was+impossible%2C+he+went+out+there+and+did+it." alt="Typing SVG" /></a>
