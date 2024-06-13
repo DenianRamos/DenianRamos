@@ -1,6 +1,7 @@
 
+![github-certo](https://github.com/DenianRamos/DenianRamos/assets/95594927/bf6eb929-a982-4676-a572-d2144abef098)
 
-![github-certo](https://github.com/DenianRamos/DenianRamos/assets/95594927/8f0107dd-65f3-4cce-b37e-f677844bd33b)
+
 
 
 <div align="center">  
