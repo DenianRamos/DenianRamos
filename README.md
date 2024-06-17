@@ -21,7 +21,7 @@
 [![My Skills](https://skillicons.dev/icons?i=ts,dotnet,cs,java,py,js,html,css,spring,bootstrap)](https://skillicons.dev)
 
 ## 🛠️ Tools:
-[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,git,windows,linux,ae,rider,figma,ps,pr,powershell)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,windows,linux,ae,rider,figma,ps,pr,powershell)](https://skillicons.dev)
 </br>
 
 </br>
