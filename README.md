@@ -40,6 +40,11 @@ In my **free time**, I enjoy playing FPS games, playing with my dogs, and I'm a 
 
 I am fluent in Brazilian Portuguese, my native language, and I consider myself to be at an intermediate level in English. I also have a strong desire to learn German.
 
+---
+
+<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenianRamos&layout=compact&theme=transparent">
+
+
 
 
 
