@@ -26,7 +26,7 @@ At the moment, I am delving into the .NET platform (ASP.NET, .NET MAUI, Blazor, 
 
 ---
 
-## ☕  Are you working on any side projects right now?
+## ☕ In my free time I like:
 
 In my **free time**, I enjoy playing FPS games, playing with my dogs, and I'm a coffee lover. Sometimes, I even like to create themes in VSCode just to keep them saved. A bit crazy, right?
 
@@ -37,6 +37,5 @@ I am fluent in Brazilian Portuguese, my native language, and I consider myself t
 ---
 ## 🍿 In my free time I like:
 
-Let me tell you ... I study a lot 😅. I read books, articles and watch tutorials on YouTube. You can also find me playing tennis, travelling or taking photographs to share on my Instagram profile.
 
 
