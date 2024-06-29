@@ -22,7 +22,7 @@ Hi there! My name is Denian (yes, that’s my real name, not a nickname inspired
 ## **💻 My tech skills**
 Here are some of the programs and tech skills that I master 😎:
 
-[![My Skills](https://skillicons.dev/icons?i=ts,dotnet,cs,java,py,js,html,css,spring,bootstrap)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,dotnet,cs,java,py,js,html,css,spring,mysql,bootstrap)](https://skillicons.dev)
 
 ---
 ## 📚 What am I studying at the moment?
