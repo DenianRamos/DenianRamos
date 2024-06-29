@@ -1,9 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jet+Brains&size=16&duration=3200&pause=1000&color=FFFFFF&random=false&width=435&lines=Hey%2C+I+am+Denian.%F0%9F%91%8B)](https://git.io/typing-svg)
 
-[![Instagram][instagram-shield]][instagram-url]
-[![LinkedIn][linkedin-shield]][linkedin-url]
-[![Udemy][udemy-shield]][udemy-url]
-[![Buy me a book][buy-me-book-shield]][buy-me-book-url]
 
 <div align="center">  
 <a href="https://www.instagram.com/denianxdd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EC2E2C?style=for-the-badge&logo=instagram&logoColor=white"</a>
