@@ -1,16 +1,22 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jet+Brains&size=18&duration=3200&pause=1000&color=FFFFFF&random=false&width=435&lines=Hey%2C+I+am+Denian.%F0%9F%91%8B)](https://git.io/typing-svg)
+
+  <img align="left" height="160px" src="https://media.discordapp.net/attachments/774050873268633613/1256433424063926334/profile_copiar.png?ex=6680c04f&is=667f6ecf&hm=3eb55ffc120d67905e956d1012dadccae74072736fd1fd8dae12e2bef68ad2de&=&format=webp&quality=lossless" alt="Profile picture">
 
 
-<div align="center">  
+
+<div align="left">  
 <a href="https://www.instagram.com/denianxdd/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-EC2E2C?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://www.linkedin.com/in/denian-soares-ramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0961B8?style=for-the-badge&logo=linkedin&logoColor=white"</a>
 </div>
 
 ## 👨‍💻 **About me**
 
-Hey, how's it going? I'm a Software Developer currently studying Systems Analysis and Development. I'm passionate about understanding how things are made, from the creation of the websites I visit to the technologies used to develop desktop applications.
+Hi there! My name is Denian (yes, that’s my real name, not a nickname inspired by the Debian distro). I’m a Software Developer currently studying Systems Analysis and Development.I’m passionate about the beauty of understanding how things are made, from the creation of the websites I visit to the technologies used in desktop applications.
 
-Currently, I'm specializing in .NET and its fascinating language, C#.
+
+- 🔭 Before entering the programming field, I worked as a video editor
+- 🇧🇷 I'm from **Rosário do Ivaí**
+- 🐶I have 3 pets: Lola, Pitico, and Luna.
+
 
 ---
 ## **💻 My tech skills**
@@ -34,8 +40,6 @@ In my **free time**, I enjoy playing FPS games, playing with my dogs, and I'm a 
 
 I am fluent in Brazilian Portuguese, my native language, and I consider myself to be at an intermediate level in English. I also have a strong desire to learn German.
 
----
-## 🍿 In my free time I like:
 
 
 
