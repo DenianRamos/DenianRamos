@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jet+Brains&size=16&duration=3200&pause=1000&color=FFFFFF&random=false&width=435&lines=Hey%2C+I+am+Denian.%F0%9F%91%8B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Jet+Brains&size=18&duration=3200&pause=1000&color=FFFFFF&random=false&width=435&lines=Hey%2C+I+am+Denian.%F0%9F%91%8B)](https://git.io/typing-svg)
 
 
 <div align="center">  
