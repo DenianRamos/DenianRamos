@@ -3,15 +3,17 @@
 
 
 
+##  **About me <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="24px" style="vertical-align: -5px;">** 
+
 <div align="left">  
-<a href="https://www.instagram.com/denianxdd/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" style="height: 42px;"></a>
-<a href="https://www.linkedin.com/in/denian-soares-ramos/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"style="height: 42px;"</a>
+<a href="https://www.instagram.com/denianxdd/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" style="height: 48px;"></a>
+<a href="https://www.linkedin.com/in/denian-soares-ramos/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"style="height: 48px;"</a>
 </div>
 
-##  **About me <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="24px" style="vertical-align: -5px;">**
 
 
 Hi there! My name is Denian (yes, that’s my real name, not a nickname inspired by the Debian distro). I’m a Software Developer currently studying Systems Analysis and Development.I’m passionate about the beauty of understanding how things are made, from the creation of the websites I visit to the technologies used in desktop applications.
+
 
 
 - 🔭 Before entering the programming field, I worked as a video editor
