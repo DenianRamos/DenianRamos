@@ -1,5 +1,6 @@
 
-  <img align="left" height="160px" src="https://media.discordapp.net/attachments/774050873268633613/1256433424063926334/profile_copiar.png?ex=6680c04f&is=667f6ecf&hm=3eb55ffc120d67905e956d1012dadccae74072736fd1fd8dae12e2bef68ad2de&=&format=webp&quality=lossless" alt="Profile picture">
+  <img align="left" height="160px" src="https://github.com/user-attachments/assets/252d68a7-73cc-479c-8a37-7f5ef6b66245" alt="Profile picture">
+
 
 
 
