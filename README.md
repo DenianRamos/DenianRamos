@@ -34,7 +34,7 @@ Here are some of the programs and tech skills that I master 😎:
 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,dotnet,cs,java,py,js,html,css,spring,mysql,bootstrap,azure&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,dotnet,cs,java,py,js,html,css,spring,mysql,bootstrap,azure&perline=6)](https://skillicons.dev)
 
 ---
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" style="position: relative; top: -5px;">  <b>What am I studying at the moment?</b>
