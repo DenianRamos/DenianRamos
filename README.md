@@ -1,4 +1,4 @@
-
+  ![](https://komarev.com/ghpvc/?username=your-github-username&color=1f1f1f)
   <img align="left" height="160px" src="https://github.com/user-attachments/assets/5c3f8015-f792-40fd-bbb9-4a8cb79b4d0f" alt="Profile picture">
 
 
