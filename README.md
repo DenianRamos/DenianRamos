@@ -1,4 +1,4 @@
-  ![](https://komarev.com/ghpvc/?username=your-github-username&color=1f1f1f)
+  ![](https://komarev.com/ghpvc/?username=DenianRamos&color=1f1f1f&base=100)
 
   <img align="left" height="160px" src="https://github.com/user-attachments/assets/39209fca-0050-4c58-8886-14e1ba089b5c" alt="Profile picture">
 
@@ -63,6 +63,81 @@ I am fluent in Brazilian Portuguese, my native language, and I consider myself t
 <img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenianRamos&layout=compact&theme=transparent">
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[counter]: https://komarev.com/ghpvc/?username=DenianRamos&color=1f1f1f&base=100
 
 
 
