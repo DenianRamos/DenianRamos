@@ -1,10 +1,5 @@
-  ![](https://komarev.com/ghpvc/?username=DenianRamos&color=1f1f1f&base=100)
 
-  <img align="left" height="160px" src="https://github.com/user-attachments/assets/39209fca-0050-4c58-8886-14e1ba089b5c" alt="Profile picture">
-
-
-
-
+  <img align="left" height="160px" src="https://github.com/user-attachments/assets/c9800241-199b-4ecb-9e28-c806d0783d10" alt="Profile picture">
 
 
 
@@ -13,9 +8,10 @@
 ##  **About me <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="24px" style="vertical-align: -5px;">** 
 
 <div align="left">  
-<a href="https://www.linkedin.com/in/denian-soares-ramos/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.instagram.com/denianxdd/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/denianxdd/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" style="height: 48px;"></a>
+  <a href="https://www.linkedin.com/in/denian-soares-ramos/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"style="height: 48px;"</a>
 </div>
+
 
 
 
@@ -24,7 +20,7 @@ Hi there! My name is Denian (yes, that’s my real name, not a nickname inspired
 
 
 - 🔭 Before entering the programming field, I worked as a video editor
-- 🇧🇷 I'm from **Rosário do Ivaí**
+- 🇧🇷 I'm from **Paraná**
 - 🐶I have 3 pets: Lola, Pitico, and Luna.
 
 
