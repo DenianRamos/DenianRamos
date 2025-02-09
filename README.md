@@ -1,139 +1,75 @@
-
-  <img align="left" height="160px" src="https://github.com/user-attachments/assets/c9800241-199b-4ecb-9e28-c806d0783d10" alt="Profile picture">
-
-
+<!-- Banner -->
+<div align="center">
 
 
-
-##  **About me <img src="https://user-images.githubusercontent.com/74038190/214644152-52f47eb3-5e31-4f47-8758-05c9468d5596.gif" height="24px" style="vertical-align: -5px;">** 
-
-<div align="left">  
-<a href="https://www.instagram.com/denianxdd/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" style="height: 48px;"></a>
-  <a href="https://www.linkedin.com/in/denian-soares-ramos/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"style="height: 48px;"</a>
 </div>
 
 
 
 
-Hi there! My name is Denian (yes, that’s my real name, not a nickname inspired by the Debian distro). I’m a Software Developer currently studying Systems Analysis and Development.I’m passionate about the beauty of understanding how things are made, from the creation of the websites I visit to the technologies used in desktop applications.
+<!-- Apresentação -->
+<div align="center">
 
+## hello ;)
 
+</div>
 
-- 🔭 Before entering the programming field, I worked as a video editor
-- 🇧🇷 I'm from **Paraná**
-- 🐶I have 3 pets: Lola, Pitico, and Luna.
+<div align="center">
 
+Just a curious developer who wants to try to create something relevant. <br>
+I like .NET, TypeScript, and Go.<br>
+[See my linkedin](https://www.linkedin.com/in/denian-soares-ramos/)
 
----
+>I am just an empty fist, fighting until nothing is left. <br>
+> ~ **Joe Yabuki**
 
-## <img src="https://user-images.githubusercontent.com/74038190/235223599-0eadbd7c-c916-4f24-af9d-9242730e6172.gif" width="20" style="position: relative; top: -5px;"> <b>My tech skills</b>
+</div>
 
-Here are some of the programs and tech skills that I master 😎:
 
+<!-- Tecnologias -->
+<div align="center">
 
+## Technologies
 
+#### Languages / Libs
+<a><img title="C#" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/c%23.png" width="40px" align="center"></a> 
+<a><img title="TypeScript" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" width="40px" align="center"></a>
+<a><img title=".NET" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/_net_core.png" width="40px" align="center"></a>
+<a><img title="Golang" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" width="40px" align="center"></a>
 
-[![My Skills](https://skillicons.dev/icons?i=go,dotnet,cs,java,py,js,html,css,spring,mysql,bootstrap,azure&perline=6)](https://skillicons.dev)
 
----
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="20" style="position: relative; top: -5px;">  <b>What am I studying at the moment?</b>
+#### Others Langs / Cloud
+<a><img title="Azure" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/microsoft_azure.png" width="40px" align="center"></a> <a><img title="AWS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/aws.png" width="40px" align="center"></a>
 
 
 
 
 
+#### Tools / System
+<a><img title="AWS" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/fedora.png" width="40px" align="center"></a>
+<a><img title="Docker" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" width="40px" align="center"></a>
 
 
-At the moment, I am delving into the .NET platform (ASP.NET, .NET MAUI, Blazor, among others) and languages like Go, Rust, and TypeScript.
 
+</div>
 
----
+<br>
 
+<!-- Redes Sociais -->
+<div align="center">
 
-## 🎤 What languages do you speak?
+## Social Media
 
-I am fluent in Brazilian Portuguese, my native language, and I consider myself to be at an intermediate level in English. I also have a strong desire to learn German.
+</div>
 
----
+<div align="center">  
+<a href="https://www.instagram.com/denianxdd/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" style="height: 48px;"></a>
+  <a href="https://www.linkedin.com/in/denian-soares-ramos/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"style="height: 48px;"</a>
+</div>
 
-<img align="left" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DenianRamos&layout=compact&theme=transparent">
 
+<!-- Header com Links -->
+<div align="center">
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-[counter]: https://komarev.com/ghpvc/?username=DenianRamos&color=1f1f1f&base=100
-
-
-
+![](https://visitor-badge.glitch.me/badge?page_id=Minatiuu&left_color=#101010&right_color=#9000ff)
+</div>
