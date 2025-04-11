@@ -70,5 +70,4 @@ I like .NET, TypeScript, and Go.<br>
 <!-- Header com Links -->
 <div align="center">
 
-![](https://visitor-badge.glitch.me/badge?page_id=Minatiuu&left_color=#101010&right_color=#9000ff)
 </div>
