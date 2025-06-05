@@ -18,7 +18,6 @@
 
 Just a curious developer who wants to try to create something relevant. <br>
 I like .NET, TypeScript, and Go.<br>
-[See my linkedin](https://www.linkedin.com/in/denian-soares-ramos/)
 
 
 
