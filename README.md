@@ -62,7 +62,6 @@ I like .NET, TypeScript, and Go.<br>
 
 <div align="center">  
 <a href="https://www.instagram.com/denianxdd/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294013-a33e5c43-a01c-43f6-b44d-a406d8b4ab75.gif" style="height: 48px;"></a>
-  <a href="https://www.linkedin.com/in/denian-soares-ramos/" target="_blank"><img src="https://user-images.githubusercontent.com/74038190/235294012-0a55e343-37ad-4b0f-924f-c8431d9d2483.gif"style="height: 48px;"</a>
 </div>
 
 
